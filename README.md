@@ -54,16 +54,16 @@ Stylesheet for font-face:
 - `UKIJ Kesme Bold`
 - `UKIJ Kesme Tuz`
 - `UKIJ Kesme Tuz Bold`
-- `UKIJ Kuffi`
-- `UKIJ Kuffi 3D`
-- `UKIJ Kuffi Chiwer`
-- `UKIJ Kuffi Gul`
-- `UKIJ Kuffi Kawak`
-- `UKIJ Kuffi Tar`
-- `UKIJ Kuffi Uz`
-- `UKIJ Kuffi Yay`
-- `UKIJ Kuffi Yay Bold`
-- `UKIJ Kuffi Yolluq`
+- `UKIJ Kufi`
+- `UKIJ Kufi 3D`
+- `UKIJ Kufi Chiwer`
+- `UKIJ Kufi Gul`
+- `UKIJ Kufi Kawak`
+- `UKIJ Kufi Tar`
+- `UKIJ Kufi Uz`
+- `UKIJ Kufi Yay`
+- `UKIJ Kufi Yay Bold`
+- `UKIJ Kufi Yolluq`
 - `UKIJ Merdane`
 - `UKIJ Mejnun`
 - `UKIJ Mejnuntal`
