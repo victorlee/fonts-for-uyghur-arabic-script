@@ -11,6 +11,13 @@ In Linux platform, you can install the fonts via
 ```
 sudo apt-get install fonts-ukij-uyghur
 ```
+Stylesheet for font-face:
+
+[/stylesheet.css](stylesheet.css)
+
+`@import url(https://victorlee.github.io/fonts-for-uyghur-arabic-script/stylesheet.css);`
+
+[Test the fonts!](../fonts/test.html)
 
 ### List of the UKIJ fonts
 
