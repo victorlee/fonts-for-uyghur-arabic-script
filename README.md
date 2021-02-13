@@ -1,5 +1,5 @@
 # Fonts for Uyghur Arabic Script
-This is a collection of fonts for Uyghur arabic script. 
+This is a collection of fonts for Uyghur Arabic script. *Kazakh and Kyrgyz Arabic script also available.*
 
 ## UKIJ Fonts
 UKIJ fonts are under ukij fonts directory.
@@ -38,7 +38,6 @@ sudo apt-get install fonts-ukij-uyghur
 |UKIJEs.ttf|          UKIJKuY.ttf|            UKIJSaet.ttf|       UKIJTzTr.ttf|
 |UKIJEsT.ttf|         UKIJ_MacBasmaBold.ttf|  UKIJSlsBold.ttf|    UKIJZilwa.ttf|
 |UKIJImaret.ttf|      UKIJ_MacBasma.ttf|      UKIJSlsTom.ttf|                    |
-| | | | |
 
 
 ### Copyright information
