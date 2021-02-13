@@ -1,0 +1,90 @@
+@font-face {font-family: 'UKIJ 3D'; src: url(ukij%20fonts/UKIJ3D.ttf)}
+@font-face {font-family: 'UKIJ Basma'; src: url(ukij%20fonts/UKIJBasma.ttf)}
+@font-face {font-family: 'UKIJ Bom'; src: url(ukij%20fonts/UKIJBom.ttf)}
+@font-face {font-family: 'UKIJ Chechek'; src: url(ukij%20fonts/UKIJChechek.ttf)}
+@font-face {font-family: 'UKIJ Chiwer Kesme'; src: url(ukij%20fonts/UKIJChiK.ttf)}
+@font-face {font-family: 'UKIJ CJK'; src: url(ukij%20fonts/UKIJCJK.ttf)}
+@font-face {font-family: 'UKIJ Diwani'; src: url(ukij%20fonts/UKIJDi.ttf)}
+@font-face {font-family: 'UKIJ Diwani Kawak'; src: url(ukij%20fonts/UKIJDiK.ttf)}
+@font-face {font-family: 'UKIJ Diwani Tom'; src: url(ukij%20fonts/UKIJDiT.ttf)}
+@font-face {font-family: 'UKIJ Diwani Yantu'; src: url(ukij%20fonts/UKIJDiY.ttf)}
+@font-face {font-family: 'UKIJ Ekran'; src: url(ukij%20fonts/UKIJEkran.ttf)}
+@font-face {font-family: 'UKIJ Elipbe'; src: url(ukij%20fonts/UKIJElipbe.ttf)}
+@font-face {font-family: 'UKIJ Elipbe Bold'; src: url(ukij%20fonts/UKIJElipbe-b.ttf)}
+@font-face {font-family: 'UKIJ Elipbe_Chekitlik'; src: url(ukij%20fonts/UKIJElipbeCh.ttf)}
+@font-face {font-family: 'UKIJ Elipbe_Chekitlik Bold'; src: url(ukij%20fonts/UKIJElipbeCh-b.ttf)}
+@font-face {font-family: 'UKIJ Esliye'; src: url(ukij%20fonts/UKIJEs.ttf)}
+@font-face {font-family: 'UKIJ Esliye Bold'; src: url(ukij%20fonts/UKIJEsBold.ttf)}
+@font-face {font-family: 'UKIJ Esliye Chiyer'; src: url(ukij%20fonts/UKIJEsC.ttf)}
+@font-face {font-family: 'UKIJ Esliye Neqish'; src: url(ukij%20fonts/UKIJEsN.ttf)}
+@font-face {font-family: 'UKIJ Esliye Qara'; src: url(ukij%20fonts/UKIJEsQ.ttf)}
+@font-face {font-family: 'UKIJ Esliye Tom'; src: url(ukij%20fonts/UKIJEsT.ttf)}
+@font-face {font-family: 'UKIJ Imaret'; src: url(ukij%20fonts/UKIJImaret.ttf)}
+@font-face {font-family: 'UKIJ Inchike'; src: url(ukij%20fonts/UKIJInchike.ttf)}
+@font-face {font-family: 'UKIJ Inchike Bold'; src: url(ukij%20fonts/UKIJInchikeb.ttf)}
+@font-face {font-family: 'UKIJ Jelliy'; src: url(ukij%20fonts/UKIJJe.ttf)}
+@font-face {font-family: 'UKIJ Junun'; src: url(ukij%20fonts/UKIJJunu.ttf)}
+@font-face {font-family: 'UKIJ Kawak'; src: url(ukij%20fonts/UKIJKa.ttf)}
+@font-face {font-family: 'UKIJ Kawak 3D'; src: url(ukij%20fonts/UKIJKa3D.ttf)}
+@font-face {font-family: 'UKIJ Kawak 3D Bold'; src: url(ukij%20fonts/UKIJKa3D-b.ttf)}
+@font-face {font-family: 'UKIJ Kesme'; src: url(ukij%20fonts/UKIJKesme.ttf)}
+@font-face {font-family: 'UKIJ Kesme Bold'; src: url(ukij%20fonts/UKIJKesme-b.ttf)}
+@font-face {font-family: 'UKIJ Kesme Tuz'; src: url(ukij%20fonts/UKIJKesmeTuz.ttf)}
+@font-face {font-family: 'UKIJ Kesme Tuz Bold'; src: url(ukij%20fonts/UKIJKesmeTuz-b.ttf)}
+@font-face {font-family: 'UKIJ Kuffi '; src: url(ukij%20fonts/UKIJKu.ttf)}
+@font-face {font-family: 'UKIJ Kuffi 3D'; src: url(ukij%20fonts/UKIJKu3D.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Chiwer'; src: url(ukij%20fonts/UKIJKuChi.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Gul'; src: url(ukij%20fonts/UKIJKuG.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Kawak'; src: url(ukij%20fonts/UKIJKuKa.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Tar'; src: url(ukij%20fonts/UKIJKuT.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Uz'; src: url(ukij%20fonts/UKIJKuU.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Yay'; src: url(ukij%20fonts/UKIJKuY.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Yay Bold'; src: url(ukij%20fonts/UKIJKuYB.ttf)}
+@font-face {font-family: 'UKIJ Kuffi Yolluq'; src: url(ukij%20fonts/UKIJKuYol.ttf)}
+@font-face {font-family: 'UKIJ Merdane'; src: url(ukij%20fonts/UKIJMe.ttf)}
+@font-face {font-family: 'UKIJ Mejnun'; src: url(ukij%20fonts/UKIJMejn.ttf)}
+@font-face {font-family: 'UKIJ Mejnuntal'; src: url(ukij%20fonts/UKIJMejT.ttf)}
+@font-face {font-family: 'UKIJ Moy Qelem'; src: url(ukij%20fonts/UKIJMoyQ.ttf)}
+@font-face {font-family: 'UKIJ Nasq'; src: url(ukij%20fonts/UKIJNsq.ttf)}
+@font-face {font-family: 'UKIJ Nasq Bold'; src: url(ukij%20fonts/UKIJNsqb.ttf)}
+@font-face {font-family: 'UKIJ Nasq Zilwa'; src: url(ukij%20fonts/UKIJNsqZ.ttf)}
+@font-face {font-family: 'UKIJ Nasq Zilwa Bold'; src: url(ukij%20fonts/UKIJNsqZB.ttf)}
+@font-face {font-family: 'UKIJ Orqun Basma'; src: url(ukij%20fonts/UKIJOrqun_B.ttf)}
+@font-face {font-family: 'UKIJ Orqun Yazma'; src: url(ukij%20fonts/UKIJOrqun_Y.ttf)}
+@font-face {font-family: 'UKIJ Orxun-Yensey'; src: url(ukij%20fonts/UKIJ.ttf)}
+@font-face {font-family: 'UKIJ Qara'; src: url(ukij%20fonts/UKIJQara.ttf)}
+@font-face {font-family: 'UKIJ Qara Bold'; src: url(ukij%20fonts/UKIJQara-b.ttf)}
+@font-face {font-family: 'UKIJ Qolyazma Tez'; src: url(ukij%20fonts/UKIJQol_Tez.ttf)}
+@font-face {font-family: 'UKIJ Qolyazma Tuz'; src: url(ukij%20fonts/UKIJQol_Tuz.ttf)}
+@font-face {font-family: 'UKIJ Qolyazma Yantu'; src: url(ukij%20fonts/UKIJQol_Yantu.ttf)}
+@font-face {font-family: 'UKIJ Qolyazma'; src: url(ukij%20fonts/UKIJQolyazma.ttf)}
+@font-face {font-family: 'UKIJ Ruqi'; src: url(ukij%20fonts/UKIJRu.ttf)}
+@font-face {font-family: 'UKIJ Saet'; src: url(ukij%20fonts/UKIJSaet.ttf)}
+@font-face {font-family: 'UKIJ Sulus'; src: url(ukij%20fonts/UKIJSls.ttf)}
+@font-face {font-family: 'UKIJ Sulus Bold'; src: url(ukij%20fonts/UKIJSlsBold.ttf)}
+@font-face {font-family: 'UKIJ Sulus Tom'; src: url(ukij%20fonts/UKIJSlsTom.ttf)}
+@font-face {font-family: 'UKIJ Teng'; src: url(ukij%20fonts/UKIJTeng.ttf)}
+@font-face {font-family: 'UKIJ Teng Bold'; src: url(ukij%20fonts/UKIJTeng-b.ttf)}
+@font-face {font-family: 'UKIJ Tiken'; src: url(ukij%20fonts/UKIJTiken.ttf)}
+@font-face {font-family: 'UKIJ Title'; src: url(ukij%20fonts/UKIJTitle.ttf)}
+@font-face {font-family: 'UKIJ Tor'; src: url(ukij%20fonts/UKIJTor.ttf)}
+@font-face {font-family: 'UKIJ Tughra'; src: url(ukij%20fonts/UKIJTughra.ttf)}
+@font-face {font-family: 'UKIJ Tuz Tom'; src: url(ukij%20fonts/UKIJTuT.ttf)}
+@font-face {font-family: 'UKIJ Tuz'; src: url(ukij%20fonts/UKIJTuz.ttf)}
+@font-face {font-family: 'UKIJ Tuz Basma'; src: url(ukij%20fonts/UKIJTuB.ttf)}
+@font-face {font-family: 'UKIJ Tuz Basma Bold'; src: url(ukij%20fonts/UKIJTuBB.ttf)}
+@font-face {font-family: 'UKIJ Tuz Bold'; src: url(ukij%20fonts/UKIJTuBold.ttf)}
+@font-face {font-family: 'UKIJ Tuz Gezit'; src: url(ukij%20fonts/UKIJTuzG.ttf)}
+@font-face {font-family: 'UKIJ Tuz Gezit Bold'; src: url(ukij%20fonts/UKIJTuzGB.ttf)}
+@font-face {font-family: 'UKIJ Tuz Kitab'; src: url(ukij%20fonts/UKIJTuzK.ttf)}
+@font-face {font-family: 'UKIJ Tuz Kitab Bold'; src: url(ukij%20fonts/UKIJTuzKB.ttf)}
+@font-face {font-family: 'UKIJ Tuz Qara'; src: url(ukij%20fonts/UKIJTuzQ.ttf)}
+@font-face {font-family: 'UKIJ Tuz Qara Bold'; src: url(ukij%20fonts/UKIJTuzQB.ttf)}
+@font-face {font-family: 'UKIJ Tuz Neqish'; src: url(ukij%20fonts/UKIJTzNeqish.ttf)}
+@font-face {font-family: 'UKIJ Tuz Tor'; src: url(ukij%20fonts/UKIJTzTr.ttf)}
+@font-face {font-family: 'UKIJ Tuz Tor Bold'; src: url(ukij%20fonts/UKIJTzTrBold.ttf)}
+@font-face {font-family: 'UKIJ Zilwa'; src: url(ukij%20fonts/UKIJZilwa.ttf)}
+@font-face {font-family: 'UKIJ Mac Basma'; src: url(ukij%20fonts/UKIJ_MacBasma.ttf)}
+@font-face {font-family: 'UKIJ Mac Basma Bold'; src: url(ukij%20fonts/UKIJ_MacBasmaBold.ttf)}
+@font-face {font-family: 'UKIJ Mac Ekran'; src: url(ukij%20fonts/UKIJ_MacEkran.ttf)}
+@font-face {font-family: 'UKIJ Mac Ekran Bold'; src: url(ukij%20fonts/UKIJ_MacEkranBold.ttf)}
