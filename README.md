@@ -4,7 +4,7 @@ This is a collection of fonts for Uyghur Arabic script. *Kazakh and Kyrgyz Arabi
 ## UKIJ Fonts
 UKIJ fonts are under ukij fonts directory.
 
-For more details and copyright information of UKIJ fonts. Please visit [http://www.ukij.org/ug/fontlar/](http://www.ukij.org/ug/fontlar/) (Note it is in Uyghur.)
+For more details and copyright information of UKIJ fonts. Please visit [http://www.ukij.org/ug/fontlar/](http://www.ukij.org/ug/fontlar/)
 
 In Linux platform, you can install the fonts via 
 
@@ -70,27 +70,27 @@ Stylesheet for font-face:
 - `UKIJ Mejnun` na nc art
 - `UKIJ Mejnuntal` na nc art
 - `UKIJ Moy Qelem` na nc *good* cursive, round, ballpoint pen
-- `UKIJ Nasq` *good*
-- `UKIJ Nasq Bold` *good*
-- `UKIJ Nasq Zilwa` na nc
-- `UKIJ Nasq Zilwa Bold` na nc
-- `UKIJ Orqun Basma` Mongol
-- `UKIJ Orqun Yazma` Mongol
+- `UKIJ Nasq` small, thin
+- `UKIJ Nasq Bold` *good* small
+- `UKIJ Nasq Zilwa` na nc semi-cursive, some wide endings
+- `UKIJ Nasq Zilwa Bold` na nc semi-cursive, more wide endings
+- `UKIJ Orqun Basma` Mongol (Baiti)
+- `UKIJ Orqun Yazma` Mongol cursive
 - `UKIJ Orxun-Yensey` X
-- `UKIJ Qara` nc *good*
-- `UKIJ Qara Bold` nc *good* sans-serif
-- `UKIJ Qolyazma` na nc
-- `UKIJ Qolyazma Tez` nc *good*
-- `UKIJ Qolyazma Tuz` nc *good*
-- `UKIJ Qolyazma Yantu` nc *good+*
+- `UKIJ Qara` nc *good* general, small serif
+- `UKIJ Qara Bold` nc *good* general, sans-serif
+- `UKIJ Qolyazma` na nc straight
+- `UKIJ Qolyazma Tez` na(diacritics) nc *good* small, ballpoint pen
+- `UKIJ Qolyazma Tuz` nc *good* bold, straight, round endings
+- `UKIJ Qolyazma Yantu` nc *good+* small, ballpoint pen, italic
 - `UKIJ Ruqi` na nc
 - `UKIJ Saet` na nc digital-clock style
-- `UKIJ Sulus` na nc
-- `UKIJ Sulus Bold` na nc
-- `UKIJ Sulus Tom` nc
-- `UKIJ Teng` na nc wide
-- `UKIJ Teng Bold`
-- `UKIJ Tiken`
+- `UKIJ Sulus` na nc thin, semi-cursive
+- `UKIJ Sulus Bold` na nc thin, semi-cursive
+- `UKIJ Sulus Tom` nc bold, counter-italic, strong strokes
+- `UKIJ Teng` na nc angular, wide
+- `UKIJ Teng Bold` na nc angular, wide, bold
+- `UKIJ Tiken` na(diacritics) nc bold, art, thorned
 - `UKIJ Title`
 - `UKIJ Tor`
 - `UKIJ Tughra`
