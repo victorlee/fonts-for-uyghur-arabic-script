@@ -21,57 +21,57 @@ Stylesheet for font-face:
 
 ### List of the UKIJ fonts
 
-- `UKIJ 3D`
-- `UKIJ Basma`
-- `UKIJ Bom`
-- `UKIJ Chechek`
-- `UKIJ Chiwer Kesme`
-- `UKIJ CJK`
-- `UKIJ Diwani`
-- `UKIJ Diwani Kawak`
-- `UKIJ Diwani Tom`
-- `UKIJ Diwani Yantu`
-- `UKIJ Ekran`
-- `UKIJ Elipbe`
-- `UKIJ Elipbe Bold`
-- `UKIJ Elipbe_Chekitlik`
-- `UKIJ Elipbe_Chekitlik Bold`
-- `UKIJ Esliye`
-- `UKIJ Esliye Bold`
-- `UKIJ Esliye Chiyer`
-- `UKIJ Esliye Neqish`
-- `UKIJ Esliye Qara`
-- `UKIJ Esliye Tom`
-- `UKIJ Imare`
-- `UKIJ Inchik`
-- `UKIJ Inchike Bold`
-- `UKIJ Jelliy`
-- `UKIJ Junun`
-- `UKIJ Kawak`
-- `UKIJ Kawak 3D`
-- `UKIJ Kawak 3D Bold`
-- `UKIJ Kesme`
-- `UKIJ Kesme Bold`
-- `UKIJ Kesme Tuz`
-- `UKIJ Kesme Tuz Bold`
-- `UKIJ Kufi`
-- `UKIJ Kufi 3D`
-- `UKIJ Kufi Chiwer`
-- `UKIJ Kufi Gul`
-- `UKIJ Kufi Kawak`
-- `UKIJ Kufi Tar`
-- `UKIJ Kufi Uz`
-- `UKIJ Kufi Yay`
-- `UKIJ Kufi Yay Bold`
-- `UKIJ Kufi Yolluq`
-- `UKIJ Merdane`
-- `UKIJ Mejnun`
-- `UKIJ Mejnuntal`
-- `UKIJ Moy Qelem`
-- `UKIJ Nasq`
-- `UKIJ Nasq Bold`
-- `UKIJ Nasq Zilwa`
-- `UKIJ Nasq Zilwa Bold`
+- `UKIJ 3D` x
+- `UKIJ Basma` good
+- `UKIJ Bom` na nc
+- `UKIJ Chechek` nc
+- `UKIJ Chiwer Kesme` x
+- `UKIJ CJK` good
+- `UKIJ Diwani` na
+- `UKIJ Diwani Kawak` na
+- `UKIJ Diwani Tom` nc
+- `UKIJ Diwani Yantu` na nc
+- `UKIJ Ekran` good
+- `UKIJ Elipbe` na good
+- `UKIJ Elipbe Bold` na good, writing without dotted characters
+- `UKIJ Elipbe_Chekitlik` na, writing, dotted characters, without lines
+- `UKIJ Elipbe_Chekitlik Bold` na writing, dotted characters, lines
+- `UKIJ Esliye` na
+- `UKIJ Esliye Bold` nc
+- `UKIJ Esliye Chiyer` nc good
+- `UKIJ Esliye Neqish` nc
+- `UKIJ Esliye Qara` na nc
+- `UKIJ Esliye Tom` na
+- `UKIJ Imare` x
+- `UKIJ Inchik` x
+- `UKIJ Inchike Bold` x
+- `UKIJ Jelliy` na nc
+- `UKIJ Junun` na nc
+- `UKIJ Kawak` na nc
+- `UKIJ Kawak 3D` x
+- `UKIJ Kawak 3D Bold` x
+- `UKIJ Kesme` nc
+- `UKIJ Kesme Bold` nc good
+- `UKIJ Kesme Tuz` nc
+- `UKIJ Kesme Tuz Bold` nc
+- `UKIJ Kufi` x
+- `UKIJ Kufi 3D` x
+- `UKIJ Kufi Chiwer` na nc
+- `UKIJ Kufi Gul` na nc
+- `UKIJ Kufi Kawak` na nc
+- `UKIJ Kufi Tar` na nc
+- `UKIJ Kufi Uz` na nc good
+- `UKIJ Kufi Yay` na nc
+- `UKIJ Kufi Yay Bold` na nc
+- `UKIJ Kufi Yolluq` na nc
+- `UKIJ Merdane` good
+- `UKIJ Mejnun` na nc
+- `UKIJ Mejnuntal` na nc
+- `UKIJ Moy Qelem` na nc good
+- `UKIJ Nasq` good
+- `UKIJ Nasq Bold` good
+- `UKIJ Nasq Zilwa` na nc
+- `UKIJ Nasq Zilwa Bold` na nc
 - `UKIJ Orqun Basma`
 - `UKIJ Orqun Yazma`
 - `UKIJ Orxun-Yensey`
