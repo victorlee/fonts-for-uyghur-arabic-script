@@ -21,68 +21,68 @@ Stylesheet for font-face:
 
 ### List of the UKIJ fonts
 
-***x**: not working, **na**: general Arabic not supported, **nc**: Cyrillic (Uyghur) not supported, **good**: satisfactory*
+***na**: general Arabic not supported, **nc**: Cyrillic (Uyghur) not supported, **good**: satisfactory, **x**: not working*
 
 - `UKIJ 3D` x
-- `UKIJ Basma` good
-- `UKIJ Bom` na nc
-- `UKIJ Chechek` nc
+- `UKIJ Basma` *good* general, thin
+- `UKIJ Bom` na nc bold, round, marker pen
+- `UKIJ Chechek` nc art
 - `UKIJ Chiwer Kesme` x
-- `UKIJ CJK` good
-- `UKIJ Diwani` na
-- `UKIJ Diwani Kawak` na
-- `UKIJ Diwani Tom` nc
-- `UKIJ Diwani Yantu` na nc
-- `UKIJ Ekran` good
-- `UKIJ Elipbe` na good
-- `UKIJ Elipbe Bold` na good, writing without dotted characters
+- `UKIJ CJK` thin, *good*
+- `UKIJ Diwani` na cursive, thin
+- `UKIJ Diwani Kawak` na cursive, 3D
+- `UKIJ Diwani Tom` nc semi-cursive
+- `UKIJ Diwani Yantu` na nc cursive
+- `UKIJ Ekran` *good* general
+- `UKIJ Elipbe` na *good* general, thin, latin/cyrillic cursive
+- `UKIJ Elipbe Bold` na *good*, writing without dotted characters
 - `UKIJ Elipbe_Chekitlik` na, writing, dotted characters, without lines
 - `UKIJ Elipbe_Chekitlik Bold` na writing, dotted characters, lines
-- `UKIJ Esliye` na
-- `UKIJ Esliye Bold` nc
-- `UKIJ Esliye Chiyer` nc good
-- `UKIJ Esliye Neqish` nc
-- `UKIJ Esliye Qara` na nc
-- `UKIJ Esliye Tom` na
+- `UKIJ Esliye` na general
+- `UKIJ Esliye Bold` nc general
+- `UKIJ Esliye Chiyer` nc *good* center white line
+- `UKIJ Esliye Qara` na nc bold
+- `UKIJ Esliye Neqish` nc bold, blur
+- `UKIJ Esliye Tom` na bold center bottom line
 - `UKIJ Imare` x
 - `UKIJ Inchik` x
 - `UKIJ Inchike Bold` x
-- `UKIJ Jelliy` na nc
-- `UKIJ Junun` na nc
-- `UKIJ Kawak` na nc
-- `UKIJ Kawak 3D` x
+- `UKIJ Jelliy` na nc cursive
+- `UKIJ Junun` na nc art, straight, angular, serif
+- `UKIJ Kawak` na nc general, white with black border
+- `UKIJ Kawak 3D` x 
 - `UKIJ Kawak 3D Bold` x
-- `UKIJ Kesme` nc
-- `UKIJ Kesme Bold` nc good
-- `UKIJ Kesme Tuz` nc
-- `UKIJ Kesme Tuz Bold` nc
+- `UKIJ Kesme` nc thin, small, semi-cursive
+- `UKIJ Kesme Bold` nc *good* small, semi-cursive
+- `UKIJ Kesme Tuz` nc semi-cursive, disconnected
+- `UKIJ Kesme Tuz Bold` nc semi-cursive, disconnected
 - `UKIJ Kufi` x
 - `UKIJ Kufi 3D` x
-- `UKIJ Kufi Chiwer` na nc
-- `UKIJ Kufi Gul` na nc
-- `UKIJ Kufi Kawak` na nc
-- `UKIJ Kufi Tar` na nc
-- `UKIJ Kufi Uz` na nc good
-- `UKIJ Kufi Yay` na nc
-- `UKIJ Kufi Yay Bold` na nc
-- `UKIJ Kufi Yolluq` na nc
-- `UKIJ Merdane` good
-- `UKIJ Mejnun` na nc
-- `UKIJ Mejnuntal` na nc
-- `UKIJ Moy Qelem` na nc good
-- `UKIJ Nasq` good
-- `UKIJ Nasq Bold` good
+- `UKIJ Kufi Chiwer` na nc art, lined
+- `UKIJ Kufi Gul` na nc art
+- `UKIJ Kufi Kawak` na nc art, 3d, white with black border
+- `UKIJ Kufi Tar` na nc art, straight, angular, serif
+- `UKIJ Kufi Uz` na nc *good* art, straight, angular, serif, flat
+- `UKIJ Kufi Yay` na nc art
+- `UKIJ Kufi Yay Bold` na nc art, bold bottom line
+- `UKIJ Kufi Yolluq` na nc art, bold, barcode-style
+- `UKIJ Merdane` *good* thin, wide, cursive
+- `UKIJ Mejnun` na nc art
+- `UKIJ Mejnuntal` na nc art
+- `UKIJ Moy Qelem` na nc *good* cursive, round, ballpoint pen
+- `UKIJ Nasq` *good*
+- `UKIJ Nasq Bold` *good*
 - `UKIJ Nasq Zilwa` na nc
 - `UKIJ Nasq Zilwa Bold` na nc
 - `UKIJ Orqun Basma` Mongol
 - `UKIJ Orqun Yazma` Mongol
 - `UKIJ Orxun-Yensey` X
-- `UKIJ Qara` nc good
-- `UKIJ Qara Bold` nc good sans-serif
-- `UKIJ Qolyazma Tez` nc good
-- `UKIJ Qolyazma Tuz` nc good
-- `UKIJ Qolyazma Yantu` nc good+
+- `UKIJ Qara` nc *good*
+- `UKIJ Qara Bold` nc *good* sans-serif
 - `UKIJ Qolyazma` na nc
+- `UKIJ Qolyazma Tez` nc *good*
+- `UKIJ Qolyazma Tuz` nc *good*
+- `UKIJ Qolyazma Yantu` nc *good+*
 - `UKIJ Ruqi` na nc
 - `UKIJ Saet` na nc digital-clock style
 - `UKIJ Sulus` na nc
