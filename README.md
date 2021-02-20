@@ -15,7 +15,7 @@ Stylesheet for font-face:
 
 [/stylesheet.css](stylesheet.css)
 
-`@import url(https://victorlee.github.io/fonts-for-uyghur-arabic-script/stylesheet.css);`
+`@import url(https://victorlee.github.io/uyghur-arabic-script-fonts/stylesheet.css);`
 
 [Test the fonts!](../fonts/test.html)
 
