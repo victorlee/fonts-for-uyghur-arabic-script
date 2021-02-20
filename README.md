@@ -21,6 +21,8 @@ Stylesheet for font-face:
 
 ### List of the UKIJ fonts
 
+***x**: not working, **na**: general Arabic not supported, **nc**: Cyrillic (Uyghur) not supported, **good**: satisfactory*
+
 - `UKIJ 3D` x
 - `UKIJ Basma` good
 - `UKIJ Bom` na nc
@@ -72,21 +74,21 @@ Stylesheet for font-face:
 - `UKIJ Nasq Bold` good
 - `UKIJ Nasq Zilwa` na nc
 - `UKIJ Nasq Zilwa Bold` na nc
-- `UKIJ Orqun Basma`
-- `UKIJ Orqun Yazma`
-- `UKIJ Orxun-Yensey`
-- `UKIJ Qara`
-- `UKIJ Qara Bold`
-- `UKIJ Qolyazma Tez`
-- `UKIJ Qolyazma Tuz`
-- `UKIJ Qolyazma Yantu`
-- `UKIJ Qolyazma`
-- `UKIJ Ruqi`
-- `UKIJ Saet`
-- `UKIJ Sulus`
-- `UKIJ Sulus Bold`
-- `UKIJ Sulus Tom`
-- `UKIJ Teng`
+- `UKIJ Orqun Basma` Mongol
+- `UKIJ Orqun Yazma` Mongol
+- `UKIJ Orxun-Yensey` X
+- `UKIJ Qara` nc good
+- `UKIJ Qara Bold` nc good sans-serif
+- `UKIJ Qolyazma Tez` nc good
+- `UKIJ Qolyazma Tuz` nc good
+- `UKIJ Qolyazma Yantu` nc good+
+- `UKIJ Qolyazma` na nc
+- `UKIJ Ruqi` na nc
+- `UKIJ Saet` na nc digital-clock style
+- `UKIJ Sulus` na nc
+- `UKIJ Sulus Bold` na nc
+- `UKIJ Sulus Tom` nc
+- `UKIJ Teng` na nc wide
 - `UKIJ Teng Bold`
 - `UKIJ Tiken`
 - `UKIJ Title`
