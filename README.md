@@ -82,7 +82,7 @@ Stylesheet for font-face:
 - `UKIJ Qolyazma` na nc straight
 - `UKIJ Qolyazma Tez` na(diacritics) nc **good** small, ballpoint pen
 - `UKIJ Qolyazma Tuz` nc **good** bold, straight, round endings
-- `UKIJ Qolyazma Yantu` nc **good+** small, ballpoint pen, italic
+- `UKIJ Qolyazma Yantu` nc na(diacritics) **good+** small, ballpoint pen, italic
 - `UKIJ Ruqi` na nc
 - `UKIJ Saet` na nc digital-clock style
 - `UKIJ Sulus` na nc thin, semi-cursive
@@ -91,28 +91,28 @@ Stylesheet for font-face:
 - `UKIJ Teng` na nc angular, wide
 - `UKIJ Teng Bold` na nc angular, wide, bold
 - `UKIJ Tiken` na(diacritics) nc bold, art, thorned
-- `UKIJ Title`
-- `UKIJ Tor`
-- `UKIJ Tughra`
-- `UKIJ Tuz Tom`
-- `UKIJ Tuz`
-- `UKIJ Tuz Basma`
-- `UKIJ Tuz Basma Bold`
-- `UKIJ Tuz Bold`
-- `UKIJ Tuz Gezit`
-- `UKIJ Tuz Gezit`
-- `UKIJ Tuz Kitab`
-- `UKIJ Tuz Kitab Bold`
-- `UKIJ Tuz Qara`
-- `UKIJ Tuz Qara Bold`
-- `UKIJ Tuz Neqish`
-- `UKIJ Tuz Tor`
-- `UKIJ Tuz Tor Bold`
-- `UKIJ Zilwa`
-- `UKIJ Mac Basma`
-- `UKIJ Mac Basma Bold`
-- `UKIJ Mac Ekran`
-- `UKIJ Mac Ekran Bold`
+- `UKIJ Title` nc art, square, round angles, wide
+- `UKIJ Tor` **good** bold, standard
+- `UKIJ Tughra` art
+- `UKIJ Tuz Tom` **good** bold, standard
+- `UKIJ Tuz`**good** thin, standard
+- `UKIJ Tuz Basma` x
+- `UKIJ Tuz Basma Bold` **good** standard, bold
+- `UKIJ Tuz Bold` x
+- `UKIJ Tuz Gezit` **good** thin, standard
+- `UKIJ Tuz Gezit Bold` **good** thin, standard
+- `UKIJ Tuz Kitab` **good** thin, standard
+- `UKIJ Tuz Kitab Bold` **good** wide, standard
+- `UKIJ Tuz Qara` na **good** thin, standard
+- `UKIJ Tuz Qara Bold` na **good** standard
+- `UKIJ Tuz Neqish` na nc art, used for large font size, white border
+- `UKIJ Tuz Tor` na thin standard
+- `UKIJ Tuz Tor Bold` na nc standard, counter-italic
+- `UKIJ Zilwa` na nc thin
+- `UKIJ Mac Basma` x
+- `UKIJ Mac Basma Bold` x
+- `UKIJ Mac Ekran` error - disconnected alphabets
+- `UKIJ Mac Ekran Bold` error - disconnected alphabets
 
 | | | | |
 | ------------- | ------------- | ------------- | ------------- |
