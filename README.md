@@ -52,10 +52,10 @@ Stylesheet for font-face:
 - `UKIJ Kawak` na nc general, white with black border
 - `UKIJ Kawak 3D` x 
 - `UKIJ Kawak 3D Bold` x
-- `UKIJ Kesme` nc thin, small, semi-cursive
+- `UKIJ Kesme` nc **good** thin, small, semi-cursive
 - `UKIJ Kesme Bold` nc **good** small, semi-cursive
-- `UKIJ Kesme Tuz` nc semi-cursive, disconnected
-- `UKIJ Kesme Tuz Bold` nc semi-cursive, disconnected
+- `UKIJ Kesme Tuz` nc **good** semi-cursive, disconnected
+- `UKIJ Kesme Tuz Bold` **good** nc semi-cursive, disconnected
 - `UKIJ Kufi` x
 - `UKIJ Kufi 3D` x
 - `UKIJ Kufi Chiwer` na nc art, lined
