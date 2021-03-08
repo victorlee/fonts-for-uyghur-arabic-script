@@ -40,7 +40,7 @@ Stylesheet for font-face:
 - `UKIJ Elipbe_Chekitlik Bold` na writing, dotted characters, lines
 - `UKIJ Esliye` na general
 - `UKIJ Esliye Bold` nc general
-- `UKIJ Esliye Chiyer` nc **good** center white line
+- `UKIJ Esliye Chiyer` nc center white line
 - `UKIJ Esliye Qara` na nc bold
 - `UKIJ Esliye Neqish` nc bold, blur
 - `UKIJ Esliye Tom` na bold center bottom line
